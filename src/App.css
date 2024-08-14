@@ -1,0 +1,62 @@
+body{
+    font-family: "Inter", sans-serif;
+}
+
+
+/* Text color */
+.blue-500{
+    color: rgb(59 130 246);
+}
+
+.green-500{
+    color: rgb(34 197 94);
+}
+
+.yellow-500{
+    color: rgb(234 179 8)
+}
+
+.red-500{
+    color: rgb(239 68 68);
+}
+
+/* BG color */
+.blue-100{
+    background-color: rgb(219 234 254);
+}
+
+.green-100{
+    background-color: rgb(220 252 231);
+}
+
+.yellow-100{
+    background-color: rgb(254 249 195);
+}
+
+.red-100{
+    background-color: rgb(254 226 226);
+}
+
+
+/* category BG color */
+.blue-300{
+    background-color: rgb(147 197 253);
+}
+
+.green-300{
+    background-color: rgb(134 239 172);
+}
+
+.yellow-300{
+    background-color: rgb(253 224 71);
+}
+
+.red-300{
+    background-color: rgb(252 165 165);
+}
+
+
+#sidebar a.active {
+    color: #FF444A;
+    text-decoration: underline;
+}

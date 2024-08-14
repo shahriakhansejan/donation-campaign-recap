@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "category": "Clothing",
+        "background_color": "blue-100",
+        "background_title": "blue-300",
+        "title": "Warm Clothing Drive",
+        "title_text_color": "blue-500",
+        "description": "Donate warm clothing items to keep vulnerable individuals and families safe and comfortable during cold weather. Our goal is to collect jackets, scarves, gloves, and hats to distribute to those in need. Your contribution can make a significant impact in ensuring that no one has to endure the harsh winter conditions without proper clothing. By participating in our drive, you will help provide essential warmth and comfort to those who need it most. Join us in this compassionate effort to support our community and make a positive difference in the lives of those less fortunate.",
+        "image": "https://i.postimg.cc/jj7nCvWv/Clothing.png",
+        "amount": 500
+    },
+    {
+        "id": 2,
+        "category": "Education",
+        "background_color": "green-100",
+        "background_title": "green-300",
+        "title": "Educational Scholarships Fund",
+        "title_text_color": "green-500",
+        "description": "Contribute to our educational scholarships fund to help underprivileged students pursue their academic goals. This fund aims to provide financial support to students who demonstrate academic potential but lack the resources to continue their education. By donating, you are investing in the future of these young individuals, enabling them to access higher education opportunities and break the cycle of poverty. Your support can help transform lives and empower the next generation of leaders and innovators. Together, we can create a brighter future and give students the opportunity to achieve their dreams.",
+        "image": "https://i.postimg.cc/Y2Gq18tw/Education.png",
+        "amount": 1000
+    },
+    {
+        "id": 3,
+        "category": "Food",
+        "background_color": "yellow-100",
+        "background_title": "yellow-300",
+        "title": "Nutrition Program Expansion",
+        "title_text_color": "yellow-500",
+        "description": "Help us expand our nutrition programs to ensure access to healthy and balanced meals for vulnerable populations. Our programs focus on providing nutritious food options to children, the elderly, and families facing food insecurity. With your support, we can reach more communities, improve health outcomes, and promote overall well-being. Every donation helps us provide essential food supplies, education on healthy eating, and support for local food systems. Together, we can make a meaningful impact on the fight against hunger and malnutrition, and improve the lives of those who depend on our services.",
+        "image": "https://i.postimg.cc/FFMFGcKk/Food.png",
+        "amount": 750
+    },
+    {
+        "id": 4,
+        "category": "Health",
+        "background_color": "red-100",
+        "background_title": "red-300",
+        "title": "Healthcare Access Initiative",
+        "title_text_color": "red-500",
+        "description": "Join our initiative to improve healthcare access for marginalized communities by funding medical outreach programs. These programs aim to provide essential healthcare services, including screenings, vaccinations, and health education, to underserved areas. Your contribution can help bridge the gap in healthcare disparities, ensuring that everyone has access to the medical care they need. By supporting our initiative, you are making a direct impact on the health and well-being of those who are often overlooked and underserved. Together, we can promote health equity and improve the quality of life for many individuals and families.",
+        "image": "https://i.postimg.cc/T3Gdv6gR/Health.png",
+        "amount": 1500
+    },
+    {
+        "id": 5,
+        "category": "Food",
+        "background_color": "yellow-100",
+        "background_title": "yellow-300",
+        "title": "Food Bank Support",
+        "title_text_color": "yellow-500",
+        "description": "Help us provide nutritious meals to those facing food insecurity by supporting our local food bank. Food banks play a crucial role in distributing food to individuals and families in need. Your donation will help us stock our shelves with fresh produce, non-perishable items, and other essential food products. By supporting our food bank, you are helping to alleviate hunger and provide hope to those who struggle to put food on the table. Together, we can ensure that no one in our community goes hungry and that everyone has access to the nutrition they need to thrive.",
+        "image": "https://i.postimg.cc/FFMFGcKk/Food.png",
+        "amount": 300
+    },
+    {
+        "id": 6,
+        "category": "Health",
+        "background_color": "red-100",
+        "background_title": "red-300",
+        "title": "Medical Supplies Drive",
+        "title_text_color": "red-500",
+        "description": "Support our medical supplies drive to provide essential equipment and resources to healthcare facilities in need. Many healthcare providers lack the necessary supplies to effectively treat patients. Your donation will help us acquire medical tools, personal protective equipment, and other vital resources. By contributing, you are directly supporting healthcare workers and patients, ensuring that they have the tools they need for safe and effective care. Together, we can make a difference in the health and well-being of our communities and improve healthcare outcomes for those who need it most.",
+        "image": "https://i.postimg.cc/T3Gdv6gR/Health.png",
+        "amount": 600
+    },
+    {
+        "id": 7,
+        "category": "Clothing",
+        "background_color": "blue-100",
+        "background_title": "blue-300",
+        "title": "Emergency Clothing Relief",
+        "title_text_color": "blue-500",
+        "description": "Donate clothing items for emergency relief efforts to assist individuals affected by natural disasters and crises. Natural disasters can leave people without basic necessities, including clothing. Your donation will help us provide clean, appropriate clothing to those who have lost everything. From children to adults, your generosity will help restore dignity and comfort during challenging times. Join us in our efforts to provide swift and compassionate relief to those in need during emergencies. Together, we can make a significant impact on the lives of those affected by unforeseen events and disasters.",
+        "image": "https://i.postimg.cc/jj7nCvWv/Clothing.png",
+        "amount": 450
+    },
+    {
+        "id": 8,
+        "category": "Food",
+        "background_color": "yellow-100",
+        "background_title": "yellow-300",
+        "title": "Community Kitchen Support",
+        "title_text_color": "yellow-500",
+        "description": "Help us sustain our community kitchen operations to provide hot meals to those in need on a daily basis. Community kitchens are vital resources for individuals and families who struggle with food insecurity. Your support will help us cover the costs of ingredients, kitchen maintenance, and staff. By donating, you are ensuring that we can continue to serve nutritious, hot meals to our community members every day. Together, we can make a difference in the lives of those who rely on our services for their daily sustenance and help create a more food-secure community.",
+        "image": "https://i.postimg.cc/FFMFGcKk/Food.png",
+        "amount": 800
+    },
+    {
+        "id": 9,
+        "category": "Education",
+        "background_color": "green-100",
+        "background_title": "green-300",
+        "title": "School Supplies Drive",
+        "title_text_color": "green-500",
+        "description": "Support our school supplies drive to provide essential learning materials to students in underserved areas. Many students lack the basic supplies needed for their education. Your donation will help us provide backpacks, notebooks, pencils, and other necessary items. By supporting our drive, you are helping to create a more equitable learning environment where all students have the tools they need to succeed. Join us in our mission to support education and empower young minds with the resources they need to thrive. Together, we can make a significant impact on the future of these students and their academic success.",
+        "image": "https://i.postimg.cc/Y2Gq18tw/Education.png",
+        "amount": 350
+    },
+    {
+        "id": 10,
+        "category": "Clothing",
+        "background_color": "blue-100",
+        "background_title": "blue-300",
+        "title": "Hygiene Kit Distribution",
+        "title_text_color": "blue-500",
+        "description": "Donate hygiene kits to promote cleanliness and prevent the spread of diseases in at-risk communities. Hygiene kits include essential items such as soap, toothpaste, toothbrushes, and sanitary products. Your contribution will help us distribute these kits to individuals and families who lack access to basic hygiene products. By donating, you are helping to improve public health and provide dignity to those in need. Join us in our effort to support hygiene and health in vulnerable communities, ensuring that everyone has the means to maintain personal cleanliness and health.",
+        "image": "https://i.postimg.cc/jj7nCvWv/Clothing.png",
+        "amount": 400
+    },
+    {
+        "id": 11,
+        "category": "Education",
+        "background_color": "green-100",
+        "background_title": "green-300",
+        "title": "School Supplies Drive",
+        "title_text_color": "green-500",
+        "description": "Support our school supplies drive to provide essential learning materials to students in underserved areas. Many students lack the basic supplies needed for their education. Your donation will help us provide backpacks, notebooks, pencils, and other necessary items. By supporting our drive, you are helping to create a more equitable learning environment where all students have the tools they need to succeed. Join us in our mission to support education and empower young minds with the resources they need to thrive. Together, we can make a significant impact on the future of these students and their academic success.",
+        "image": "https://i.postimg.cc/Y2Gq18tw/Education.png",
+        "amount": 350
+    },
+    {
+        "id": 12,
+        "category": "Health",
+        "background_color": "red-100",
+        "background_title": "red-300",
+        "title": "Medical Research Fund",
+        "title_text_color": "red-500",
+        "description": "Contribute to medical research initiatives aimed at finding cures and treatments for life-threatening diseases. Your support can help fund innovative research projects that seek to understand, prevent, and cure various health conditions. By donating, you are investing in the future of medicine and helping to save lives. Your generosity will support scientists and researchers in their quest to develop new treatments and improve healthcare outcomes for all. Join us in advancing medical research and making a difference in the fight against disease. Together, we can drive progress and hope in the medical field.",
+        "image": "https://i.postimg.cc/T3Gdv6gR/Health.png",
+        "amount": 1200
+    }
+]
