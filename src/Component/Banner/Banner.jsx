@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 import PropTypes from 'prop-types';
+import bannerImg from '../../assets/campaign.png';
+import './banner.css'
 
 const Banner = ({handleSearch}) => {
     const [searchValue, setSearchValue] = useState('');
@@ -13,7 +15,7 @@ const Banner = ({handleSearch}) => {
     
 
     return (
-        <div className='bg-white/90 py-60 bg-[url(campaign.png)] bg-cover bg-center bg-blend-overlay'>
+        <div className='bg-white/90 py-60 bg-cover bg-center bg-blend-overlay bgImg'>
             <div className='container mx-auto flex flex-col items-center'>
             <h1 className='text-5xl font-bold text-center text-[#0B0B0B]'>I Grow By Helping People In Need</h1>
             <div  className="join mt-10">
